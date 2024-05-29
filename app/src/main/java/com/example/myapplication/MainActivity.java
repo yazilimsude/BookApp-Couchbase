@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
                     return true; // startActivity was successful, so return true
                 } else if (item.getItemId() == R.id.action_logout) {
                     // Handle logout logic here, such as clearing user data
-                    Intent intentLogout = new Intent(MainActivity.this, kayitActivity.class);
+                    Intent intentLogout = new Intent(MainActivity.this, girisActivity.class);
                     startActivity(intentLogout);
                     finish(); // Optionally call finish to remove this activity from the back stack
                     return true; // startActivity was successful, so return true

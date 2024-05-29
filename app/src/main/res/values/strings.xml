@@ -10,4 +10,6 @@
     <string name="type8">TARİH</string>
     <string name="type9">BİLİM</string>
     <string name="type10">FELSEFE</string>
+    <string name="type11">KitapUygulaması</string>
+
 </resources>

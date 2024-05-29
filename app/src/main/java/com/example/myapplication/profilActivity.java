@@ -44,7 +44,7 @@ public class profilActivity extends AppCompatActivity {
                     return true; // startActivity was successful, so return true
                 } else if (item.getItemId() == R.id.action_logout) {
                     // Handle logout action
-                    Intent intent = new Intent(profilActivity.this, MainActivity.class);
+                    Intent intent = new Intent(profilActivity.this, girisActivity.class);
                     startActivity(intent);
                     finish(); // Optionally call finish to remove this activity from the back stack
                     return true; // startActivity was successful, so return true

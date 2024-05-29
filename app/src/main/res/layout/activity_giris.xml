@@ -9,7 +9,7 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="70dp"
-        android:text="KitapUygulaması"
+        android:text="@string/type11"
         android:textSize="50dp"
         android:textColor="@color/my_primary"
         android:layout_marginTop="150dp"
