@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kitap Uygulaması</string>
+    <string name="type1">KORKU</string>
+    <string name="type2">GERİLİM</string>
+    <string name="type3">BİLİM KURGU</string>
+    <string name="type4">ÇİZGİ ROMAN</string>
+    <string name="type5">ROMANTİK</string>
+    <string name="type6">POLİSİYE</string>
+    <string name="type7">KİŞİSEL GELİŞİM</string>
+    <string name="type8">TARİH</string>
+    <string name="type9">BİLİM</string>
+    <string name="type10">FELSEFE</string>
+</resources>

@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_profil"
+        android:title="Profil" />
+    <item
+        android:id="@+id/action_logout"
+        android:title="Çıkış" />
+</menu>
