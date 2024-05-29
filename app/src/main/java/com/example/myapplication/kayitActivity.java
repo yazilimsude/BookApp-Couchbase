@@ -34,7 +34,7 @@ public class kayitActivity extends AppCompatActivity {
             }
         });
 
-        signIn.setOnClickListener(new View.OnClickListener()
+        signIn.setOnClickListener(new View.OnClickListener(){
         @Override
         public void onClick(View v) {
             Intent intent = new Intent(kayitActivity.this, girisActivity.class);
